@@ -1,0 +1,9 @@
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Service.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Service.pdb
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Infrastructure.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\AutoMapper.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Infrastructure.pdb
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.pdb

@@ -1,0 +1,5 @@
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Debug\DCSMonitorSetting.Infrastructure.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Debug\DCSMonitorSetting.Infrastructure.pdb
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.dll
+E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.pdb
