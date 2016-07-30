@@ -7,3 +7,12 @@ E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Servi
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.csprojResolveAssemblyReference.cache
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.dll
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.pdb
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Service.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Service.pdb
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Infrastructure.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\SqlServerDataAdapter.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\AutoMapper.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\bin\Debug\DCSMonitorSetting.Infrastructure.pdb
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Debug\DCSMonitorSetting.Service.pdb

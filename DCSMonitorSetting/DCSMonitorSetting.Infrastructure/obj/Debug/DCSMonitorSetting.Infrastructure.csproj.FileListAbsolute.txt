@@ -3,3 +3,8 @@ E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infra
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.csprojResolveAssemblyReference.cache
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.dll
 E:\NXJC\项目文件\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.pdb
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Debug\DCSMonitorSetting.Infrastructure.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Debug\DCSMonitorSetting.Infrastructure.pdb
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.dll
+D:\GitProjectProgram\Project_NXJC\DCSMonitorSetting\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Debug\DCSMonitorSetting.Infrastructure.pdb
