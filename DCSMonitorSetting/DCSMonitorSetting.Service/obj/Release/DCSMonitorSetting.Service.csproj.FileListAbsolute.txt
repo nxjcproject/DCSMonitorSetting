@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\第一轮修改\DCSMonitorSetting-master\DCSMonitorSetting-master\DCSMonitorSetting\DCSMonitorSetting.Service\obj\Release\DCSMonitorSetting.Service.csprojResolveAssemblyReference.cache

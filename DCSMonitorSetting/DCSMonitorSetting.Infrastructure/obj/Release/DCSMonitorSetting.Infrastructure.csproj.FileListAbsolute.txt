@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\第一轮修改\DCSMonitorSetting-master\DCSMonitorSetting-master\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Release\DCSMonitorSetting.Infrastructure.dll
+C:\Users\Administrator\Desktop\第一轮修改\DCSMonitorSetting-master\DCSMonitorSetting-master\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\bin\Release\DCSMonitorSetting.Infrastructure.pdb
+C:\Users\Administrator\Desktop\第一轮修改\DCSMonitorSetting-master\DCSMonitorSetting-master\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Release\DCSMonitorSetting.Infrastructure.dll
+C:\Users\Administrator\Desktop\第一轮修改\DCSMonitorSetting-master\DCSMonitorSetting-master\DCSMonitorSetting\DCSMonitorSetting.Infrastructure\obj\Release\DCSMonitorSetting.Infrastructure.pdb
